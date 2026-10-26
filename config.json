@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-with-pytest",
+      "title": "Testing FastAPI with Pytest",
+      "description": "Practice automated testing of FastAPI CRUD endpoints, validation, and error responses with pytest and TestClient.",
+      "path": "assignments/testing-fastapi-with-pytest",
+      "dueDate": "2026-11-16"
     }
   ]
 }
